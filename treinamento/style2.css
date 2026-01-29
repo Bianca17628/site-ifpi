@@ -1,0 +1,13 @@
+* body{
+    background-color: rgb(181, 150, 103); 
+    text-align: center;
+
+}
+img{
+    margin: auto;
+    height: auto;
+    width: 400px ;
+    display: flex; justify-content: center;
+    display: inline-block;
+    
+}

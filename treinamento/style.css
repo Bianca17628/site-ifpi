@@ -1,0 +1,35 @@
+* body{
+    background-color: rgb(181, 150, 103);
+
+
+}
+button{
+    background-color: rgb(4, 5, 5);
+    color: rgb(210, 178, 154);
+}
+   
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+img{
+    margin: auto;
+    height: auto;
+    width: 400px ;
+    display: flex; justify-content: center;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    font-size: large;
+    color: rgb(142, 127, 109);
+
+}
+.button{
+    text-align: left;
+}
+
+
+ 
